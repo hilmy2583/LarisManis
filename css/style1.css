@@ -1,0 +1,172 @@
+body {
+    background-color: #E4CCFF;
+}
+
+.header {
+    background-color: #0D99FF;
+    width: 100%;
+    min-height: 130px;
+    padding-top: 30px;
+}
+
+.block-3 {
+    background-color: #FFCD29;
+    width: 99%;
+    height: 20px;
+    margin-top: 110px;
+    z-index: 1;
+    position: absolute;
+}
+
+.block-2 {
+    background-color: #FFCD29;
+    width: 130px;
+    height: 130px;
+    z-index: 2;
+    position: absolute;
+    margin-left: 130px;
+}
+
+.block-1 {
+    background-color: #FFCD29;
+    width: 130px;
+    height: 130px;
+    margin-top: 60px;
+    z-index: 3;
+    position: absolute;
+    margin-left: 70px;
+}
+
+.gamba-2 {
+    width: 150px;
+    height: 150px;
+    z-index: 4;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.ol-2 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px;
+    float: right;
+    padding-top: 10px;
+    z-index: 2;
+}
+
+ol li a img {
+    height: 60px;
+    width: 60px;
+    padding-right: 5px;
+}
+
+.gamba-3 {
+    width: 300px;
+    margin: 40px 0 0 20%;
+    position: absolute;
+}
+
+.left {
+    float: left;
+    margin: 330px 0 0 100px;
+}
+
+.right {
+    float: right;
+    margin: 40px 0 0 0;
+}
+
+h2 {
+    text-align: right;
+    color: #14AE5C;
+    margin-right: 200px;
+}
+
+.parag {
+    width: 500px;
+}
+
+table {
+    margin-top: 20px;
+}
+
+td {
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.green {
+    color: #14AE5C;
+    font-size: 18;
+}
+
+.image {
+    height: 90px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.first {
+    margin-bottom: 30px;
+}
+
+.ol-1 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+    position: absolute;
+}
+
+button {
+    border-radius: 10px;
+    height: 30px;
+    background-color: #FFCD29;
+    border-style: none;
+    margin-right: 50px;
+    padding: 8px 20px 10px 20px;
+}
+
+.image-2 {
+    height: 100px;
+    width: 100px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.table {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.table td {
+    padding: 0 20px 0 10px;
+}
+
+.tb {
+    margin-top: 40px;
+    padding: 0 70px;
+}
+
+footer {
+    float: right;
+    margin-right: 50px;
+}
+
+.ol-3 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding-left: 0px;
+}
+
+.ol-3 li a img {
+    height: 30px;
+    width: 30px;
+    padding-right: 20px;
+}
