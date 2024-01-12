@@ -56,6 +56,26 @@ body {
     z-index: 2;
 }
 
+.ol-3 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin: auto 25%;
+    z-index: 2;
+}
+
+ul {
+    list-style: none;
+}
+
+li .para {
+    width: 80%;
+}
+
+.ol-3 li {
+    margin: auto;
+}
+
 ol li a img {
     height: 60px;
     width: 60px;
@@ -81,7 +101,8 @@ ol li a img {
 h2 {
     text-align: right;
     color: #14AE5C;
-    margin-right: 200px;
+    margin-right: 68%;
+    width: 300px;
 }
 
 .parag {
@@ -100,6 +121,7 @@ td {
 .green {
     color: #14AE5C;
     font-size: 18;
+    text-decoration: none;
 }
 
 .image {
@@ -130,8 +152,10 @@ button {
 }
 
 .image-2 {
-    height: 100px;
-    width: 100px;
+    height: 60%;
+    max-height: 100px;
+    width: 60%;
+    max-width: 100px;
 }
 
 h1 {
@@ -169,4 +193,15 @@ footer {
     height: 30px;
     width: 30px;
     padding-right: 20px;
+}
+
+.footer {
+    margin-top: 45%;
+}
+
+.ol-4 {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding-left: 0px;
 }
