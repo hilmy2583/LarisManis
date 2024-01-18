@@ -67,13 +67,15 @@ button {
 
 .button-yellow {
     background-color: #FFCD29;
-    width: 250px;
+    width: 100px;
     height: 35px;
 }
-/* 
+
 .button-blue {
     background-color: #0D99FF;
-} */
+    width: 100px;
+    height: 35px;
+}
 
 footer {
     padding-left: 50px;
